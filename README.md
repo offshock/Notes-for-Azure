@@ -3,3 +3,10 @@ Repositório publico, para o Azure contendo resumos, anotações e dicas sobre o
 
 ## Objetivo
 Documentar o processo de configuração dde uma insttannncia no banco dde dddados ddo Microsofttt Azure.
+
+##Etapas
+- Criação da conta Azure
+- Criação da instancia
+- Configuração inicial
+
+- 
