@@ -1,12 +1,18 @@
 # Notes-for-Azure
-Repositório publico, para o Azure contendo resumos, anotações e dicas sobre o seu uso.
+Repositório público, para o Azure contendo resumos, anotações e dicas sobre o seu uso.
 
 ## Objetivo
-Documentar o processo de configuração dde uma insttannncia no banco dde dddados ddo Microsofttt Azure.
+Documentar o processo de configuração de uma instância no banco de dados ddo Microsofttt Azure.
 
-##Etapas
+## Etapas
 - Criação da conta Azure
 - Criação da instancia
 - Configuração inicial
 
-- 
+## Criação da Instância
+### Escolha do banco
+### Configuração básica
+### Região
+### Firewall
+## Testes realizados
+## Conclusão
